@@ -43,7 +43,7 @@ Essa interação e suporte foram muito importantes, permitindo que eu me concent
 ## 🚀 Como Visualizar o Projeto
 
 Você pode acessar meu portfólio online através do seguinte link:
-[https://SEU_USUARIO_GITHUB.github.io/NOME_DO_SEU_REPOSITORIO/](https://SEU_USUARIO_GITHUB.github.io/NOME_DO_SEU_REPOSITORIO/)
+[https://SEU_USUARIO_GITHUB.github.io/NOME_DO_SEU_REPOSITORIO/](https://devdevanir.github.io/DevDevanir/)
 *(Lembre-se de configurar o GitHub Pages para o seu repositório, caso ainda não tenha feito!)*
 
 Alternativamente, se preferir explorar o código e executá-lo localmente:
