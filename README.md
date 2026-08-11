@@ -1,72 +1,124 @@
-﻿# DevDevanir.github.io
- # 👨‍💻 Portfólio Pessoal - Devanir Oliveira dos Santos
+<h1 align="center">👋 Olá, eu sou Devanir Oliveira</h1>
 
-Olá! Este é o repositório do meu portfólio pessoal, desenvolvido com o intuito de apresentar minhas habilidades, experiências e projetos como **Desenvolvedor Back-end**. É um prazer compartilhar um pouco sobre a jornada de criação deste projeto.
+<h3 align="center">
+Automação de Processos • Backend • Integração de Sistemas
+</h3>
 
-## 🎯 Sobre o Projeto
-
-O objetivo central deste portfólio é funcionar como um cartão de visitas digital. Através dele, recrutadores e outros profissionais da área podem conhecer meu perfil técnico, minhas competências e as formas de entrar em contato. Foquei em criar uma interface limpa, organizada e que transmitisse minha dedicação à tecnologia e ao desenvolvimento de software.
-
-## 🛠️ Tecnologias Utilizadas
-
-Para a construção deste projeto, foram empregadas as seguintes tecnologias e ferramentas:
-
-* **HTML5:** Utilizado para a estruturação semântica do conteúdo.
-* **CSS3:** Responsável pela estilização e o layout das páginas (através do arquivo `css/styles.css`).
-* **Google Fonts:** Para aprimorar a tipografia do site (utilizando a fonte `Roboto`).
-* **DevIcons:** Para a exibição dos ícones representativos das tecnologias que domino.
-* **Ion Icons:** Utilizados para ícones gerais de interface e nos links para redes sociais.
-* **Git & GitHub:** Essenciais para o versionamento do código e para a hospedagem do projeto.
-
-## ✨ Principais Funcionalidades
-
-* **Seção Biográfica:** Uma breve apresentação sobre mim e minha trajetória profissional.
-* **Informações de Contato:** Acesso rápido aos meus perfis no LinkedIn, Instagram e ao meu e-mail profissional.
-* **Exibição de Skills:** Uma lista clara das tecnologias e ferramentas com as quais tenho experiência, complementada por ícones representativos.
-    * _Destaque:_ Tooltips informativas (ao passar o mouse sobre cada ícone de skill, seu nome é exibido, melhorando a usabilidade).
-* **Navegação Intuitiva:** Design pensado para ser simples e direto, facilitando o acesso às informações.
-
-## 💡 Processo de Desenvolvimento e Aprendizado
-
-Este portfólio representa uma valiosa jornada de aprendizado e aplicação prática de conhecimentos. Durante todo o processo de desenvolvimento, pude consolidar e expandir o que aprendi, especialmente através do curso de **Git e GitHub que realizei na Udemy**. O uso do Git foi fundamental para manter o projeto organizado, versionar cada etapa e garantir um histórico seguro de todas as modificações.
-
-Além disso, contei com o valioso auxílio de uma **Inteligência Artificial (IA) da Google** e do professor **Mathes Battisti (Hora de Codar)** , que se tornou uma parceira fundamental para superar desafios e refinar detalhes importantes do projeto. Essa colaboração foi extremamente produtiva, e a IA me ofereceu suporte em diversos pontos cruciais:
-
-* **Ajuste de Cores e Visibilidade:** A IA me ajudou com sugestões para a escolha de uma tonalidade de fundo mais harmoniosa para a seção de tecnologias. O objetivo era assegurar que os ícones tivessem o destaque e contraste necessários, sem comprometer a estética escura que eu desejava para o design.
-* **Implementação de Tooltips nos Ícones:** Recebi orientação clara sobre como adicionar as "dicas de texto" (tooltips) que surgem ao passar o mouse sobre os ícones das minhas skills. Implementamos essa funcionalidade de forma elegante e eficaz utilizando o atributo `title` do HTML, o que enriqueceu a experiência do usuário.
-* **Configuração e Atualização de Links:** Tive suporte para a correta configuração dos links direcionados às minhas redes sociais (LinkedIn e Instagram), bem como para a remoção de links que não eram mais pertinentes (como o do Facebook) e para a verificação da funcionalidade do link de e-mail.
-* **Refinamento de Conteúdo Textual:** A IA também me auxiliou em pequenos, mas importantes, ajustes no conteúdo textual, como a atualização do meu título profissional para **"Desenvolvedor Back-end"**, garantindo que todas as informações estivessem precisas e atualizadas.
-* **Esclarecimentos sobre o Git:** Em determinado momento do desenvolvimento, me deparei com alguns avisos emitidos pelo Git referentes a finais de linha (LF/CRLF), o que inicialmente gerou certa dúvida. A IA me forneceu uma explicação detalhada sobre o significado desses avisos, o que me tranquilizou ao confirmar que não se tratavam de erros críticos e que eu poderia prosseguir com o versionamento do meu projeto sem preocupações.
-
-Essa interação e suporte foram muito importantes, permitindo que eu me concentrasse nos aspectos mais criativos e de conteúdo do portfólio, enquanto contava com um apoio técnico robusto para aprimorar continuamente o resultado final.
-
-## 🚀 Como Visualizar o Projeto
-
-Você pode acessar meu portfólio online através do seguinte link:
-[https://SEU_USUARIO_GITHUB.github.io/NOME_DO_SEU_REPOSITORIO/](https://devdevanir.github.io/DevDevanir/)
-*(Lembre-se de configurar o GitHub Pages para o seu repositório, caso ainda não tenha feito!)*
-
-Alternativamente, se preferir explorar o código e executá-lo localmente:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO.git)
-    ```
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd NOME_DO_SEU_REPOSITORIO
-    ```
-3.  **Abra o arquivo `index.html`** em seu navegador de preferência.
-
-## 🌟 Próximos Passos e Melhorias Futuras (Visão de Futuro)
-
-Tenho planos de continuar evoluindo este portfólio. Algumas das melhorias que pretendo implementar incluem:
-* Desenvolver uma seção de **"Projetos"** mais detalhada, com descrições, tecnologias utilizadas e links para demonstrações ou repositórios.
-* Aprimorar o **design responsivo** para garantir uma experiência de visualização otimizada em dispositivos móveis e tablets.
-* Explorar a adição de **animações sutis e transições com CSS** para tornar a navegação mais dinâmica e interativa.
+<p align="center">
+Transformo rotinas manuais e processos repetitivos em soluções digitais,
+integradas e rastreáveis.
+</p>
 
 ---
 
-Agradeço imensamente por dedicar seu tempo para visitar meu repositório e conhecer meu trabalho! Fique à vontade para entrar em contato caso tenha alguma dúvida ou oportunidade.
+## 👨‍💻 Sobre mim
 
-**Devanir Oliveira dos Santos**
+Sou desenvolvedor focado em **automação de processos empresariais, backend e integração entre sistemas**.
+
+Meu objetivo é utilizar tecnologia para reduzir trabalho manual, eliminar tarefas repetitivas e criar processos mais confiáveis e escaláveis.
+
+Tenho interesse especial em soluções envolvendo:
+
+- ⚙️ Automação de processos empresariais
+- 🔗 Integração entre sistemas e APIs
+- 🐍 Desenvolvimento Backend com Python
+- 🗄️ Bancos de dados e processamento de informações
+- 🔄 Processamento assíncrono e tarefas em background
+- 📊 Sistemas internos, monitoramento e geração de dados
+- 🤖 Aplicação de IA em processos empresariais
+
+---
+
+## 🧰 Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,supabase,redis,docker,git,github,kotlin,html,css,js" />
+</p>
+
+### Backend & Automação
+
+`Python` • `APIs REST` • `SQL` • `PostgreSQL` • `Supabase`
+
+### Infraestrutura & Processamento
+
+`Docker` • `Redis` • `Celery` • `Git` • `GitHub`
+
+### Desenvolvimento
+
+`Kotlin` • `JavaScript` • `HTML` • `CSS`
+
+---
+
+## 🎯 O que gosto de construir
+
+Soluções que conectam sistemas e eliminam tarefas repetitivas.
+
+Exemplos:
+
+- Integração de APIs
+- Automação de rotinas administrativas
+- Processamento de dados
+- Jobs e tarefas em background
+- Monitoramento de sistemas
+- Dashboards internos
+- Sistemas de apoio à operação
+- Automação de relatórios
+- Webhooks e integrações entre plataformas
+
+---
+
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=DevDevanir&show_icons=true&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DevDevanir&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+  />
+</p>
+
+### 📈 Frequência de desenvolvimento
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DevDevanir&theme=github-compact&hide_border=true"
+  />
+</p>
+
+---
+
+## 💻 Linguagens nos meus repositórios
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDevanir&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  />
+</p>
+
+---
+
+## 🚀 Atualmente
+
+Aprofundando meus conhecimentos em arquitetura de software, Python, bancos de dados,
+APIs, automação, sistemas distribuídos e desenvolvimento de soluções empresariais.
+
+Meu principal interesse é construir sistemas que resolvam **problemas reais de operação**.
+
+---
+
+## 🤝 Vamos conversar
+
+Estou aberto a colaborar em projetos envolvendo:
+
+**Python • Backend • APIs • Automação • Integrações • Sistemas Empresariais**
+
+<p align="center">
+  <a href="https://github.com/DevDevanir">
+    <img src="https://img.shields.io/badge/GitHub-DevDevanir-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
